@@ -1,0 +1,21 @@
+{
+  "name": "currency-converter-shagufta-kanwal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "currency.js",
+  "type":"module",
+  "publicConfig":{
+    "access":"public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shagufta Kanwal",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
